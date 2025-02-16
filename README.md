@@ -32,11 +32,11 @@ This project is a React-based web application that includes a **Dashboard**, **L
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/KeshavMishra023/login-dashboard-react
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo
+   cd login-dashboard-react
    ```
 3. Install dependencies:
    ```sh
@@ -51,9 +51,6 @@ This project is a React-based web application that includes a **Dashboard**, **L
    http://localhost:3000
    ```
 
-## Screenshots
-(Add screenshots of your Dashboard, Login, and Register pages here)
-
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
@@ -61,5 +58,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 Feel free to submit issues and pull requests!
 
 ## Contact
-For any queries, contact me at [your-email@example.com] or visit my GitHub profile: [GitHub](https://github.com/your-username)
+For any queries, contact me at keshavmishra0024@gmail.com or visit my GitHub profile: [GitHub](https://github.com/KeshavMishra023/login-dashboard-react)
 
