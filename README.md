@@ -50,6 +50,14 @@ This project is a React-based web application that includes a **Dashboard**, **L
    ```sh
    http://localhost:3000
    ```
+## Screenshots 
+https://github.com/user-attachments/assets/14823292-6eff-4cae-8c27-6f5b9ad96fbe
+https://github.com/user-attachments/assets/6d3f2bf4-223c-4bbb-8bfc-e1c9a156307a
+https://github.com/user-attachments/assets/2297c594-5e21-4be2-b9e5-48ebc530ae60
+https://github.com/user-attachments/assets/789aba22-da23-4b36-90a5-78c1dbb07f91
+https://github.com/user-attachments/assets/270c1445-29d3-4676-99ca-a4354036bcc2
+https://github.com/user-attachments/assets/24a7e9e1-e951-4eba-b9f2-2a3326e4d299
+https://github.com/user-attachments/assets/c5666bc8-45d9-40ec-84ca-80b68e08afde
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
